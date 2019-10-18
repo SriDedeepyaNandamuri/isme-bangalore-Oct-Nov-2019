@@ -7,7 +7,7 @@
 
 ## My Blog
 
-Think ML - https://goodboyanush.github.io/
+Think ML - https://medium.com/@nandamuridedeepya135
 
 ## Course Overview
 
