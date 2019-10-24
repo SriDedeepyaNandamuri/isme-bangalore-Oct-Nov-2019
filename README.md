@@ -7,7 +7,8 @@
 
 ## My Blog
 
-Think ML - https://medium.com/@nandamuridedeepya135
+Think ML - https://medium.com/@nandamuridedeepya135/is-machine-learning-a-spanish-language-82199bdaf436
+           https://medium.com/@nandamuridedeepya135/linear-regression-vs-logistic-regression-805ff4afdab
            
 
 ## Course Overview
