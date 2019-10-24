@@ -8,6 +8,7 @@
 ## My Blog
 
 Think ML - https://medium.com/@nandamuridedeepya135
+           
 
 ## Course Overview
 
