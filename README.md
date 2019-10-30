@@ -9,7 +9,7 @@
 
 Think ML - https://medium.com/@nandamuridedeepya135/is-machine-learning-a-spanish-language-82199bdaf436
            https://medium.com/@nandamuridedeepya135/linear-regression-vs-logistic-regression-805ff4afdab
-           
+           https://medium.com/@nandamuridedeepya135/do-you-know-neural-networks-8a7ea2693cb
 
 ## Course Overview
 
