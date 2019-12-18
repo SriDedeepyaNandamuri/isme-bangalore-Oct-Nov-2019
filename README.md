@@ -13,6 +13,7 @@ Think ML - https://medium.com/@nandamuridedeepya135/is-machine-learning-a-spanis
            https://medium.com/@nandamuridedeepya135/do-you-know-the-trick-644015c61047
            https://medium.com/@nandamuridedeepya135/is-trick-applicable-769a51efe045
            https://medium.com/@nandamuridedeepya135/unsupervised-learning-57634f4189c9
+ MY ENDTERM DATASET-https://github.com/SriDedeepyaNandamuri/Machine-Learning
 
 ## Course Overview
 
